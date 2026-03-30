@@ -2,8 +2,8 @@ Digital Literacy Project – CSE0001
 👤 Student Details
 
 Name: Chandrahas Reddy
-Registration Number: (25MIM10043)
-Branch: (Artificial Intelligence)
+Registration Number: 25MIM10043
+Branch: Artificial Intelligence
 Year: First Year B.Tech
 Course Code: CSE0001
 Course Title: Digital Literacy
@@ -11,11 +11,11 @@ University: VIT Bhopal University
 
 📌 Project Overview
 
-This repository contains my Digital Literacy Project submitted for CSE0001 – Digital Literacy. As part of the role of a Student Digital Ambassador, this project focuses on understanding and applying essential digital skills required for academic growth and professional development.
+This repository contains my Digital Literacy Project submitted for CSE0001 – Digital Literacy. As part of my role as a Student Digital Ambassador, this project focuses on understanding and applying essential digital skills required for academic growth and professional development.
 
 The project is divided into five tasks aligned with the course modules. These tasks cover digital literacy awareness, professional portfolio building, coding and collaboration platforms, email etiquette, and cybercrime awareness. Each section includes practical work, screenshots, and reflections documented in the final report.
 
-Through this project, I developed a better understanding of managing my digital identity, using online tools responsibly, communicating professionally, and protecting myself from cyber threats. This repository acts as a structured digital portfolio demonstrating my learning and application of digital literacy concepts.
+Through this project, I developed a better understanding of managing my digital identity, using online tools responsibly, communicating professionally, and protecting myself from cyber threats. This repository serves as a structured digital portfolio demonstrating my learning and application of digital literacy concepts.
 
 📚 Module Summaries
 🔹 Task 1 – Digital Literacy Awareness Infographic
@@ -40,38 +40,44 @@ Researched phishing and UPI fraud. Prepared a case study and a prevention checkl
 
 🔗 Important Links
 
-GitHub Repository: ()
-Google Form Quiz: (https://docs.google.com/forms/d/e/1FAIpQLSem7gKcAFDUsSa0Npj8SueRGrbwm_McY7PMswQYB_J3fsVPtA/viewform?usp=publish-editor)
-LinkedIn Profile: (www.linkedin.com/in/joudi-chandrahas-reddy-2032a237a)
-HackerRank Profile: (https://www.hackerrank.com/profile/sunnychandrahas1)
+GitHub Repository:
+https://github.com/sunnychandrahas05-ops/Digital-Literacy.git
+
+Google Form Quiz:
+https://docs.google.com/forms/d/e/1FAIpQLSem7gKcAFDUsSa0Npj8SueRGrbwm_McY7PMswQYB_J3fsVPtA/viewform?usp=publish-editor
+
+LinkedIn Profile:
+https://www.linkedin.com/in/joudi-chandrahas-reddy-2032a237a
+
+HackerRank Profile:
+https://www.hackerrank.com/profile/sunnychandrahas1
 
 📁 Repository Structure
-
 digital-literacy-project/
 │
 ├── README.md
 │
 ├── report/
-│ └── Project_Report.pdf
+│   └── Project_Report.pdf
 │
 ├── task-1-presentation/
-│ └── infographic.png
+│   └── infographic.png
 │
 ├── task-2-portfolio/
-│ ├── github-profile.png
-│ ├── linkedin-profile.png
-│ └── hackerrank-profile.png
+│   ├── github-profile.png
+│   ├── linkedin-profile.png
+│   └── hackerrank-profile.png
 │
 ├── task-3-platforms/
-│ ├── hackerrank-challenge.png
-│ ├── google-form.png
-│ └── google-sheet-responses.png
+│   ├── hackerrank-challenge.png
+│   ├── google-form.png
+│   └── google-sheet-responses.png
 │
 ├── task-4-email-etiquette/
-│ ├── email-extension.txt
-│ ├── email-internship.txt
-│ └── social-media-checklist.md
+│   ├── email-extension.txt
+│   ├── email-internship.txt
+│   └── social-media-checklist.md
 │
 └── task-5-cybercrime/
-├── casestudy.md
-└── prevention-checklist.md
+    ├── casestudy.md
+    └── prevention-checklist.md
