@@ -1,12 +1,17 @@
-Digital Literacy Project – CSE0001
-👤 Student Details
+#Digital Literacy Project – CSE0001
+#👤 Student Details
 
 Name: Chandrahas Reddy
 Registration Number: 25MIM10043
+
 Branch: Artificial Intelligence
+
 Year: First Year B.Tech
+
 Course Code: CSE0001
+
 Course Title: Digital Literacy
+
 University: VIT Bhopal University
 
 📌 Project Overview
@@ -17,7 +22,7 @@ The project is divided into five tasks aligned with the course modules. These ta
 
 Through this project, I developed a better understanding of managing my digital identity, using online tools responsibly, communicating professionally, and protecting myself from cyber threats. This repository serves as a structured digital portfolio demonstrating my learning and application of digital literacy concepts.
 
-📚 Module Summaries
+#📚 Module Summaries
 🔹 Task 1 – Digital Literacy Awareness Infographic
 
 Created a one-page infographic using Canva explaining digital literacy, safe internet practices, and maintaining a professional online presence. The design and reflection are included in the project report.
@@ -52,7 +57,7 @@ https://www.linkedin.com/in/joudi-chandrahas-reddy-2032a237a
 HackerRank Profile:
 https://www.hackerrank.com/profile/sunnychandrahas1
 
-📁 Repository Structure
+#📁 Repository Structure
 digital-literacy-project/
 │
 ├── README.md
