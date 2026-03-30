@@ -58,32 +58,3 @@ https://www.linkedin.com/in/joudi-chandrahas-reddy-2032a237a
 HackerRank Profile:
 https://www.hackerrank.com/profile/sunnychandrahas1
 
-#📁 Repository Structure
-digital-literacy-project/
-│
-├── README.md
-│
-├── report/
-│   └── Project_Report.pdf
-│
-├── task-1-presentation/
-│   └── infographic.png
-│
-├── task-2-portfolio/
-│   ├── github-profile.png
-│   ├── linkedin-profile.png
-│   └── hackerrank-profile.png
-│
-├── task-3-platforms/
-│   ├── hackerrank-challenge.png
-│   ├── google-form.png
-│   └── google-sheet-responses.png
-│
-├── task-4-email-etiquette/
-│   ├── email-extension.txt
-│   ├── email-internship.txt
-│   └── social-media-checklist.md
-│
-└── task-5-cybercrime/
-    ├── casestudy.md
-    └── prevention-checklist.md
