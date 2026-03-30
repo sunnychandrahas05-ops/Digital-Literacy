@@ -1,5 +1,6 @@
-#Digital Literacy Project – CSE0001
-#👤 Student Details
+Digital Literacy Project – CSE0001
+
+👤 Student Details
 
 Name: Chandrahas Reddy
 Registration Number: 25MIM10043
